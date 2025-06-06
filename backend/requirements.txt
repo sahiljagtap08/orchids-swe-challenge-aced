@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-dotenv
+httpx
+beautifulsoup4
+playwright
+Pillow
+anthropic
+openai
+google-generativeai
+hyperbrowser 
+pydantic-settings
