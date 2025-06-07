@@ -1,4 +1,4 @@
-# 🌸 PetalClone - Vision-Powered AI Website Cloner (completed in 8 hrs including documentation)
+# 🌸 PetalClone - Vision-Powered AI Website Cloner (completed in 12 hrs including documentation)
 
 PetalClone is an advanced AI-powered tool that clones websites with exceptional visual and structural accuracy. It leverages a vision-capable AI agent, a robust browser automation backend, and a real-time frontend to deconstruct, understand, and recreate websites from just a URL.
 
